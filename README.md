@@ -10,7 +10,7 @@
 ## 1. Taum and B'day
 
   - [Problem](https://www.hackerrank.com/challenges/taum-and-bday/problem?isFullScreen=true)(navigate to the Problem)
-  - [Solution](.py) (navigate to the Solution file)
+  - [Solution](taumbday.py) (navigate to the Solution file)
   - Problem Description
   >Taum is planning to celebrate the birthday of his friend, Diksha. There are two types of gifts that Diksha wants from Taum: one is black and the other is white. To make her happy, Taum has to buy black gifts and white gifts.
 
@@ -73,7 +73,7 @@ output
 ## 2. Find Digits
 
   - [Problem](https://www.hackerrank.com/challenges/find-digits/problem?isFullScreen=true)(navigate to the Problem)
-  - [Solution](.py) (navigate to the Solution file)
+  - [Solution](findigits.py) (navigate to the Solution file)
   - Problem Description
   >Given an integer `n`, for each digit that makes up the integer, determine whether it is a divisor. Count the number of divisors occurring within the integer.
 
@@ -124,7 +124,7 @@ output
 ## 3. Angry Professor
 
   - [Problem](https://www.hackerrank.com/challenges/angry-professor/problem?isFullScreen=true)(navigate to the Problem)
-  - [Solution](.py) (navigate to the Solution file)
+  - [Solution](angryprof.py) (navigate to the Solution file)
   - Problem Description
   >A Discrete Mathematics professor has a class of students. Frustrated with their lack of discipline, the professor decides to cancel class if fewer than some number of students are present when class starts. Arrival times go from on time (non-positive) to arrived late (positive). Given the arrival time of each student and a threshold number of attendees, determine if the class is canceled.
 
@@ -166,7 +166,7 @@ NO
 ## 4. Solve Me First
 
   - [Problem](https://www.hackerrank.com/challenges/solve-me-first/problem?isFullScreen=true)(navigate to the Problem)
-  - [Solution](.py) (navigate to the Solution file)
+  - [Solution](first.py) (navigate to the Solution file)
   - Problem Description
   >Complete the function `solveMeFirst` to compute the sum of two integers.
 
@@ -197,7 +197,7 @@ output
 ## 5. Beautiful Days at the Movies
 
   - [Problem](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies?isFullScreen=true)(navigate to the Problem)
-  - [Solution](.py) (navigate to the Solution file)
+  - [Solution](beau.py) (navigate to the Solution file)
   - Problem Description:
   >beautifulDays(i, j, k) -> int`. Count the number of beautiful days in the range.
 
@@ -239,7 +239,7 @@ output
 ## 6. Sherlock and Squares
 
   - [Problem](https://www.hackerrank.com/challenges/sherlock-and-squares/problem?isFullScreen=true)(navigate to the Problem)
-  - [Solution](.py) (navigate to the Solution file)
+  - [Solution](sherlock.py) (navigate to the Solution file)
   - Problem Description:
   >    The squares function counts the number of square integers within a given range.
 
@@ -286,7 +286,7 @@ output
 ## 7. Repeated String
 
   - [Problem](https://www.hackerrank.com/challenges/repeated-string/problem?isFullScreen=true)(navigate to the Problem)
-  - [Solution](.py) (navigate to the Solution file)
+  - [Solution](restring.py) (navigate to the Solution file)
   - Problem-Description:
   >    The repeatedString function calculates the frequency of the letter 'a' in the first n characters of a repeated infinite string.
 
@@ -337,7 +337,7 @@ output
 ## 8. Cut the sticks
 
   - [Problem](https://www.hackerrank.com/challenges/cut-the-sticks/problem?isFullScreen=true)(navigate to the Problem)
-  - [Solution](.py) (navigate to the Solution file)
+  - [Solution](cutsticks.py) (navigate to the Solution file)
   - Problem Description
   >    The cutTheSticks function calculates the number of sticks remaining before each iteration of cutting, discarding the shortest pieces until there are none left.
 
@@ -422,7 +422,7 @@ output
 ## 9. Jumping on the Clouds
 
   - [Problem](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem?isFullScreen=true)(navigate to the Problem)
-  - [Solution](findthemedian.py) (navigate to the Solution file)
+  - [Solution](jumpingonclouds.py) (navigate to the Solution file)
   - Problem-Description:
   >    The jumpingOnClouds function calculates the minimum number of jumps required to win the game by jumping on clouds. The player can jump on any cumulus cloud having a number that is equal to the number of the current cloud plus 1 or 2. The player must avoid the thunderheads.
 
@@ -508,7 +508,7 @@ output
 ## 10. Morgan and a String
 
   - [Problem](https://www.hackerrank.com/challenges/morgan-and-a-string/problem?isFullScreen=true)(navigate to the Problem)
-  - [Solution](.py) (navigate to the Solution file)
+  - [Solution](morganstr.py) (navigate to the Solution file)
   - Problem-Description:
   >    The morganAndString function assembles the lexicographically minimal string made of two collections of uppercase letters. Morgan can take a letter from a collection only when it is on the top of the stack.
 
